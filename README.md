@@ -1,4 +1,4 @@
-# 🤗Room & Boolm (1인용 가구 쇼핑몰)
+# 🪑Room & Boolm (1인용 가구 쇼핑몰)
 
 
 ![image](https://github.com/GAW00/tp_team4/assets/125619374/384351ec-8035-4f30-ac38-4e4bab51893d)
