@@ -9,6 +9,10 @@
 
 <br/>
 
+## ⏰ 개발 일정(간트 차트)
+![tp_team4_2023-07-04_03 52pm](https://github.com/GAW00/tp_team4/assets/125619374/09f0b865-fd3e-43bc-bbbe-167f696c1a12)
+
+
 ## ✅ 서비스 주요 기능
 
 ### 💡 회원가입
@@ -90,15 +94,12 @@
   </details>
 
 
-## ✅ 페이지별 화면
-
-
 
 <br/>
 
 ## ✅ 기술스택
 
-![관리자제품](https://github.com/GAW00/tp_team4/assets/125619374/de0a1f09-d2f0-434f-8bf6-7216f278e8c3)
+![image](https://github.com/GAW00/tp_team4/assets/125619374/682a04ef-73e9-4f7b-9185-dfabb2ffdc4e)
 
 ### 프론트엔드
 
@@ -106,8 +107,11 @@
 
 ### 백엔드
 
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
-<img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/> <img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=PM2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"><img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
+
+### 형상관리
+
+  ![image](https://github.com/GAW00/tp_team4/assets/125619374/37499162-f1d6-4b61-820c-1a0db9435971)
 
 
 <br/>
@@ -118,23 +122,12 @@
 ### 1. 정보구조도(다이어그램)
 <img src="https://user-images.githubusercontent.com/104059932/211264767-84d028f1-c96b-448e-972a-ee4e32e51522.png" width="700px" />
 
-### 2. [와이어 프레임](https://www.figma.com/file/33a0PITPQ3GaelQ2EgduNK/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?node-id=1%3A2&t=NXWFCEgiHzGDyfV3-1)
+### 2. [와이어 프레임][(https://www.figma.com/file/33a0PITPQ3GaelQ2EgduNK/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?node-id=1%3A2&t=NXWFCEgiHzGDyfV3-1)](https://www.figma.com/file/7mTVSIZPz6HJyIOl6LjDYd/TP_4%EC%A1%B0-%EC%87%BC%ED%95%91%EB%AA%B0?type=design&node-id=0-1&mode=design&t=p50DF7K2ime0xLu0-0)
 
-### 2. [API 명세서](https://jiwoo84.notion.site/API-a1a1b003fbda4db885bebd36d528b7d0)
-
-<br/>
-
-## ✅ 인프라 구조
-
-<img src="https://i.ibb.co/9tGxmx0/image.png" width=500 />
 
 <br/>
 
-## ✅ 폴더 구조
 
-- 프론트: `src/views` 폴더
-- 백: src/views 이외 폴더 전체
-- 실행: **프론트, 백 동시에, express로 실행**
 
 <br/>
 
@@ -142,10 +135,11 @@
 
 | 이름   | 담당 업무 |
 | ------ | --------- |
-| 허혜실 | 팀장/FE   |
-| 곽지우 | FE : 관리자 페이지, 마이페이지 정보수정  |
-| 박지혜 | FE        |
-| 손형석 | BE        |
-| 이진희 | BE        |
+| 박동명 | 팀장/BE   |
+| 구나현 | BE        |
+| 안예주 | BE        |
+| 김효진 | BE        |
+| 박정훈 | FE        |
+| 조은유 | FE        |
 
 <br />
