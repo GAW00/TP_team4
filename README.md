@@ -10,8 +10,10 @@
 <br/>
 
 ## ⏰ 개발 일정(간트 차트)
+
 ![tp_team4_2023-07-04_03 52pm](https://github.com/GAW00/tp_team4/assets/125619374/09f0b865-fd3e-43bc-bbbe-167f696c1a12)
 
+<br/>
 
 ## ✅ 서비스 주요 기능
 
@@ -111,7 +113,7 @@
 
 ### 형상관리
 
-  ![image](https://github.com/GAW00/tp_team4/assets/125619374/37499162-f1d6-4b61-820c-1a0db9435971)
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
 
 <br/>
@@ -120,7 +122,7 @@
 ## ✅ 기획
 
 ### 1. 정보구조도(다이어그램)
-<img src="https://user-images.githubusercontent.com/104059932/211264767-84d028f1-c96b-448e-972a-ee4e32e51522.png" width="700px" />
+![image](https://github.com/GAW00/tp_team4/assets/125619374/37499162-f1d6-4b61-820c-1a0db9435971)
 
 ### 2. [와이어 프레임][(https://www.figma.com/file/33a0PITPQ3GaelQ2EgduNK/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?node-id=1%3A2&t=NXWFCEgiHzGDyfV3-1)](https://www.figma.com/file/7mTVSIZPz6HJyIOl6LjDYd/TP_4%EC%A1%B0-%EC%87%BC%ED%95%91%EB%AA%B0?type=design&node-id=0-1&mode=design&t=p50DF7K2ime0xLu0-0)
 
